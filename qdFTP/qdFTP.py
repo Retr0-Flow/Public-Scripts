@@ -1,6 +1,6 @@
 #title           :qdFTP.py
 #description     :Quick and dirty FTP script.
-#author          :Harsimran Grewal (Tr4pDad on github)
+#author          :Harsimran Grewal (Retr0-Flow on github)
 #date            :08/11/2018
 #version         :3.0
 #usage           :python qdFTP.py
