@@ -4,7 +4,7 @@
 #date            :20/8/2019
 #version         :3.0
 #usage           :To generate a specified amount (default 10000) insults for someone
-#notes           : This is essentialy a scrapper that goes to a website and uses it to get a lot of i.nsults for someone you might not like.
+#notes           : This is essentialy a scrapper that goes to a website and uses it to get a lot of insults for someone you might not like.
 #python_version  :3.7.0
 #==============================================================================
 
